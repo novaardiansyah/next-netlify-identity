@@ -18,16 +18,16 @@ you can see the results of this repo through a <a href="https://na1-next-netlify
   <a href="#">
     <img src="https://img.shields.io/badge/stages-development-informational">
   </a>
-  <a href="https://github.com/novaardiansyah1/next-netlify-identity/blob/master/references.json">
+  <a href="https://github.com/novaardiansyah/next-netlify-identity/blob/main/references.json">
     <img src="https://img.shields.io/badge/information-references-informational">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/repo-size/novaardiansyah1/next-netlify-identity?label=size&color=informational" />
+    <img src="https://img.shields.io/github/repo-size/novaardiansyah/next-netlify-identity?label=size&color=informational" />
   </a>
-  <a href="https://github.com/novaardiansyah1/next-netlify-identity/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/novaardiansyah1/next-netlify-identity?label=license&color=informational" />
+  <a href="https://github.com/novaardiansyah/next-netlify-identity/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/novaardiansyah/next-netlify-identity?label=license&color=informational" />
   </a>
-  <a href="https://github.com/novaardiansyah1/next-netlify-identity/commits/master">
-    <img src="https://img.shields.io/github/last-commit/novaardiansyah1/next-netlify-identity/master?color=informational" />
+  <a href="https://github.com/novaardiansyah/next-netlify-identity/commits/main">
+    <img src="https://img.shields.io/github/last-commit/novaardiansyah/next-netlify-identity/main?color=informational" />
   </a>
 </p>
