@@ -1,0 +1,43 @@
+@use 'sass:map';
+@use 'partials/fonts'as f;
+@use 'partials/variables'as v;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Nunito", Sans-Serif;
+  font-weight: 400;
+  background: map-get(v.$colors, cl-dark-1);
+  color: map-get(v.$colors, cl-light);
+  line-height: 1.8em;
+}
+
+a {
+  text-decoration: none;
+  color: map-get(v.$colors, cl-light-blue);
+  transition: .3s;
+
+  &:hover {
+    color: map-get(v.$colors, cl-light-blue-1);
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.navbar {
+  .navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+  }
+}
+
+#content {
+  min-height: 100vh;
+
+  .image__circle {
+    border-radius: 50%;
+  }
+}

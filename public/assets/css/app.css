@@ -1,0 +1,42 @@
+/* Sans-Serif Fonts */
+/* Nunito */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap");
+/* Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Nunito", Sans-Serif;
+  font-weight: 400;
+  background: #2f3640;
+  color: #f5f6fa;
+  line-height: 1.8em;
+}
+
+a {
+  text-decoration: none;
+  color: #00a8ff;
+  transition: 0.3s;
+}
+a:hover {
+  color: #0097e6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.navbar .navbar-brand {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+#content {
+  min-height: 100vh;
+}
+#content .image__circle {
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=app.css.map */
